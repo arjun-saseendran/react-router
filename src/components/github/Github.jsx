@@ -1,8 +1,9 @@
-import React from 'react'
+
 
 const Github = () => {
+
   return (
-    <div>Github</div>
+    <div className='text-center mb-4 bg-gray-600 text-white p-4 text-3xl'>Github</div>
   )
 }
 
